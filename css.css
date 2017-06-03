@@ -1,0 +1,20 @@
+*{
+	text-decoration:none;
+	margin:0;
+	padding:0;
+}
+#nav{
+	width:100%;
+	text-align:center;
+	position:fixed;
+	transition:all 1s ease-in;
+}
+ul li{
+	display: inline-block;
+	line-height: 60px;
+}
+ul li>a{
+	padding: 15px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	
+}
